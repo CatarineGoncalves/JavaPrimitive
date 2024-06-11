@@ -1,2 +1,19 @@
-package PACKAGE_NAME;public class lacosRepeticao {
+
+
+public class lacosRepeticao {
+    public static void main(String[] args) {
+
+        for (int i = 1; i <= 10 ; i++) {
+            for (int j = 0; j <= 10 ; j++) {
+                System.out.println(j + " x " + i + " = " + j*i);
+            }
+        }
+
+
+
+
+
+        
+    }
+
 }
